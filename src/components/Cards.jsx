@@ -24,11 +24,11 @@ const Cards = () => {
 
             <div className="card w-1/4 bg-[#212121] h-[57vh] rounded-xl text-white p-10 flex justify-between flex-col font-['Roboto'] uppercase tracking-tight">
                 <div className='flex items-center justify-center h-full'>
-                    <img className='w-28 h-28' src="https://ochi.design/wp-content/uploads/2022/04/logo003.png" alt="" />
+                    <img className='w-28 h-28' src="/images/logo.png" alt="this is logo" />
                 </div>
                 <div className=''>
                     <button className='px-3 text-sm font-medium py-1 rounded-full border-[1px] border-white uppercase'>business bootcamp alumini</button>
-                </div>
+                </div>  
             </div>
         </div>
         
